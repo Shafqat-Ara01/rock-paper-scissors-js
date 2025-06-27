@@ -3,6 +3,8 @@
 Welcome to the classic **Rock Paper Scissors** game! This project is a beginner-friendly JavaScript mini-game that lets you play against the computer with real-time score tracking and dynamic message updates.
 
 ---
+![Game Preview](https://github.com/user-attachments/assets/dd6a0126-ba7e-4373-a7ce-750e5bf25fa6)
+
 
 ##  Features
 
@@ -14,7 +16,7 @@ Welcome to the classic **Rock Paper Scissors** game! This project is a beginner-
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
